@@ -987,8 +987,8 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/paradiseduo/inject";
 			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 1.0.0;
+				kind = revision;
+				revision = e6d3aa4abe106f90fd8c5a1ca04db15c19d324eb;
 			};
 		};
 		68E48B9D29570A0400C39879 /* XCRemoteSwiftPackageReference "DataCache" */ = {
